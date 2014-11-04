@@ -7,7 +7,6 @@ import org.apache.commons.lang3.ArrayUtils;
 /**
  * 
  * @author Asanka Siriwardena
- * Comment added for fetching and merge test.
  *
  */
 
