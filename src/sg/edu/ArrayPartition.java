@@ -3,6 +3,12 @@ package sg.edu;
 import java.util.Arrays;
 import org.apache.commons.lang3.ArrayUtils;
 
+/**
+ * 
+ * @author Asanka Siriwardena
+ *
+ */
+
 public class ArrayPartition {
 
 	public static void main(String[] args) {

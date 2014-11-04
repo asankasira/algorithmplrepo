@@ -5,6 +5,11 @@ import java.util.Random;
 
 import org.apache.commons.lang3.ArrayUtils;
 
+/**
+ * 
+ * @author Asanka Siriwardena
+ *
+ */
 
 public class CountingSort {
 
